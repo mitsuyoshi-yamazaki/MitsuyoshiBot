@@ -1,0 +1,19 @@
+{
+  "name": "mitsuyoshibot",
+  "version": "1.0.0",
+  "description": "Screeps script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot.git"
+  },
+  "author": "Mitsuyoshi Yamazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot/issues"
+  },
+  "homepage": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot#readme"
+}
