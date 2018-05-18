@@ -17,6 +17,18 @@
   },
   "homepage": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot#readme",
   "devDependencies": {
-    "rollup": "^0.59.1"
+    "@types/lodash": "^3.10.1",
+    "@types/screeps": "^2.2.1",
+    "rollup": "^0.57.1",
+    "rollup-plugin-clean": "^1.0.0",
+    "rollup-plugin-commonjs": "^9.1.0",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-screeps": "^0.1.2",
+    "rollup-plugin-typescript2": "^0.12.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.8.1"
+  },
+  "dependencies": {
+    "source-map": "~0.6.1"
   }
 }
