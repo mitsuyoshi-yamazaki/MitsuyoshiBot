@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot/issues"
   },
-  "homepage": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot#readme"
+  "homepage": "https://github.com/mitsuyoshi-yamazaki/MitsuyoshiBot#readme",
+  "devDependencies": {
+    "rollup": "^0.59.1"
+  }
 }
