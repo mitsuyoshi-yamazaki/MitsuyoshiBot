@@ -29,6 +29,7 @@
     "typescript": "^2.8.1"
   },
   "dependencies": {
+    "creep-tasks": "^1.1.1",
     "source-map": "~0.6.1"
   }
 }
